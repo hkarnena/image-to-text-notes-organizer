@@ -1,0 +1,31 @@
+Gokaraju Lailavathi Engineering College
+(ag U
+
+iated to Osmania University)
+
+Bachupally, Kukatpally, Hyder SET-2
+Subject: Automata Languages & Computation
+(PC 503 CS)
+Class: B.E(CSE/CSM) Max Marks: 20M
+Semester: V ClE-1 Duration: 1 hi
+“Part A ia Marks co
+a “Answer All Questions (6Marks) =
+Tra) Construct DFA which accepts all the strings over alphabet 5=(0, i | os | cor
+Kins with ‘O11. ‘3 cS ec a
+fa strin ost ‘2 = _ il ss |;
+| Part B
+a Answer Any Two Questions (2X7=14.M) iz
+[State/Aiphabet] 0 [1
+| Seng qo | al, *ae
+| ql, “q2 *q2z_ |
+ee ot —— | at gt | at |
+b) (Write 5 Tuples for the above DFA. ut co}
+3a) Minimize the following DFA using Table Filing Method. | 3M | ts | COI |
+Pees |
+518):
+| aA sl 2
+<<) = |
+Uo +)
+b)_|Weite'S Tuples for the above Minimized DFA, u_| cor
+4 Construct vatio for the string aabaa fo T
+{ give SjaSS\c, ASbA\ba
